@@ -1,7 +1,10 @@
 <!-- Welcome Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile" alt="Welcome Banner" width="100%">
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: #ffffff;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="820" height="359">
+
 </p>
+
+
 
 <h1 align="center">👋 Hello, I'm Jannatul Fardaus</h1>
 <h3 align="center">Oracle APEX Developer | Full-Stack Enthusiast</h3>
