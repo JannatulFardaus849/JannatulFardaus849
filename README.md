@@ -10,18 +10,18 @@
 <h3 align="center">Oracle APEX Developer | Web Developer </h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jannatulmitu849@gmail.com">
     <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jannatul-fardaus-33262620b">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
-  <a href="https://github.com/your-github-profile">
+  <a href="https://github.com/JannatulFardaus849">
     <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
   </a>
 </p>
 
----
+
 
 ## 🚀 About Me
 
