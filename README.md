@@ -7,7 +7,7 @@
 
 
 <h1 align="center">👋 Hello, I'm Jannatul Fardaus</h1>
-<h3 align="center">Oracle APEX Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">Oracle APEX Developer | Web Developer </h3>
 
 <p align="center">
   <a href="mailto:your-email@example.com">
